@@ -14,7 +14,7 @@ class SobreMim extends Desenvolvedor {
 
 ### Olá, meu nome é Gustavo Mendes!
 
-<p>Aluno iniciante no curso Banco de Dados da FATEC - Prof. Jessen Vida .<br>
+<p>Aluno iniciante no curso Banco de Dados da FATEC - Prof. Jessen Vidal .<br>
   <br>
 Tecnologias já utilizadas 
 <div align = "left">
